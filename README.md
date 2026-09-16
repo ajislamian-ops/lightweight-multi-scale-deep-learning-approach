@@ -1,2 +1,2 @@
-# lightweight-multi-scale-deep-learning-approach
-A lightweight multi-scale deep learning approach for robust photovoltaic fault detection under noisy conditions
+# A lightweight multi-scale deep learning approach for robust photovoltaic fault detection under noisy conditions
+This study proposes BLGSNet, a lightweight hybrid architecture that integrates parallel multi-scale one-dimensional convolutional branches with a bidirectional long short-term memory (BiLSTM) network to capture local fault patterns and bidirectional contextual relationships across ordered PV features. BLGSNet is trained using all 30 standardized input features, while MLP-based permutation ranking and principal component analysis (PCA) are employed to analyse feature relevance and construct compact representations for conventional machine-learning comparisons.
