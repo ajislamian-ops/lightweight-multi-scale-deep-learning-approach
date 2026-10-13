@@ -1,5 +1,6 @@
 # A Lightweight Multi-Scale Deep Learning Approach for Robust Photovoltaic Fault Detection Under Noisy Conditions
 Manuscript code script: https://doi.org/10.5281/zenodo.23330976 
+To access and cite manuscript here: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sQeCyUgAAAAJ&citation_for_view=sQeCyUgAAAAJ:hsZV8lGYWTMC
 ## Overview
 This repository contains the implementation and supporting resources for a photovoltaic (PV) fault-detection study based on **BLGSNet**, a lightweight hybrid deep-learning architecture designed for robust fault classification under noisy operating conditions.
 
